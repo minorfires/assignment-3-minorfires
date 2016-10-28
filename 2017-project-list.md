@@ -1,6 +1,8 @@
 # 2017 Project List
-[image][1]
+
 ## This is a working list of school-related and non-school-related tasks already on my list for next year, structured hierarchically.
+
+> Rather like a New Year's Resolution, this is highly idealized and subject to change. Hopefully, this will float around in a repository among repositories that will grow and become a part of my life as they become a practical necessity. With that, may this list be something I remain committed to as fully as all of the tools that made this fun experiment possible - a long-form digital mantra whose language must be practiced ad nauseum to keep the skills from gathering dust or going to rust. 
 
 ## Educational - *Continuing MSLS program*
 
@@ -36,14 +38,12 @@
 - Complete Microfilm Prep for Digitization Vendor
 - Continue Outreach and Support Roles for NCC/NDNP
 
-## Creative - *pretend we're still an artist and musician*
+## Creative - *pretend we're still an artist and a musician*
 - Continue **UNC Sound Map**
 - Begin assembling recordings for **Boston show**
 - Correspond with band, writing new guitar and bass parts for **Brown Book IV**
 
 ## Personal/recreational - *Take a breath. Enjoy a moment. See wife and dog.*
 Examine `academic calendar` for travel opportunities
-Compare with `Liz's calendar` for teaching and shows
+Compare with `Liz*s calendar` for teaching and shows
 Seek opportunities to get to New England between `Maymester` and `Summer II` or after
-
-[1]:http://tower.life/wp-content/uploads/2016/06/001-Signs-of-Drowning-Pic.jpg
